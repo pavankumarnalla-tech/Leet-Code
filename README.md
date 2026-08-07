@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
