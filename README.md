@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0054-spiral-matrix) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
