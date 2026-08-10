@@ -9,16 +9,8 @@ class Solution {
 
             List<Integer> innerList = new ArrayList<>();
 
-            if(i == 0)
-            innerList.add(1);
-
-            else if(i == 1){
-                innerList.add(1);
-                innerList.add(1);
-            }
-
-            else
             for(int j=0; j<=i; j++){
+                
                 if(j == 0 || j == i)
                 innerList.add(1);
 
