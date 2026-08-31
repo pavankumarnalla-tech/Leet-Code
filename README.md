@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/1539-kth-missing-positive-number) |
+| [1901-find-a-peak-element-ii](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Math
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0054-spiral-matrix) |
+| [1901-find-a-peak-element-ii](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/1901-find-a-peak-element-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/1539-kth-missing-positive-number) |
+| [1901-find-a-peak-element-ii](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/1901-find-a-peak-element-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
