@@ -168,4 +168,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0205-isomorphic-strings) |
+| [0796-rotate-string](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0796-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
