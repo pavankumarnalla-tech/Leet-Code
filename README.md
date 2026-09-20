@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0189-rotate-array) |
 ## Two Pointers
@@ -188,4 +189,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0451-sort-characters-by-frequency) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
