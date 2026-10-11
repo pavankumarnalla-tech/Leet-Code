@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0410-split-array-largest-sum) |
@@ -252,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0069-sqrtx) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
