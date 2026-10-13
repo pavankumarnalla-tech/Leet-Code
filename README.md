@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0190-reverse-bits) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0493-reverse-pairs) |
 ## Counting
