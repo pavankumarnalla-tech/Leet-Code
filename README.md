@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0070-climbing-stairs) |
+| [0168-excel-sheet-column-title](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0451-sort-characters-by-frequency) |
