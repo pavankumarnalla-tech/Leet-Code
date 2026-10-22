@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0451-sort-characters-by-frequency) |
 ## Dynamic Programming
 |  |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0796-rotate-string) |
 ## String Matching
@@ -278,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0070-climbing-stairs) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
