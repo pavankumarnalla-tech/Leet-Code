@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0189-rotate-array) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0191-number-of-1-bits) |
 | [0389-find-the-difference](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
 |  |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0451-sort-characters-by-frequency](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0796-rotate-string) |
 ## String Matching
