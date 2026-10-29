@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0189-rotate-array) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0415-add-strings](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0415-add-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0415-add-strings) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
 |  |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0415-add-strings](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0796-rotate-string) |
 ## String Matching
