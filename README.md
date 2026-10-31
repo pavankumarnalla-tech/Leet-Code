@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0392-is-subsequence) |
+| [0541-reverse-string-ii](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0541-reverse-string-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0451-sort-characters-by-frequency) |
+| [0541-reverse-string-ii](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0541-reverse-string-ii) |
 | [0796-rotate-string](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0796-rotate-string) |
 ## String Matching
 |  |
