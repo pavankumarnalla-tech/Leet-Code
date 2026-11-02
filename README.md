@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0451-sort-characters-by-frequency) |
+| [0520-detect-capital](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0541-reverse-string-ii) |
 | [0796-rotate-string](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0796-rotate-string) |
 ## String Matching
