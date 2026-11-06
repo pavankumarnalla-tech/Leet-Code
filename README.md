@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1539-kth-missing-positive-number](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0451-sort-characters-by-frequency) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0541-reverse-string-ii) |
 | [0796-rotate-string](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0796-rotate-string) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 ## String Matching
 |  |
 | ------- |
