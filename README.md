@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0451-sort-characters-by-frequency) |
+| [0459-repeated-substring-pattern](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0541-reverse-string-ii) |
 | [0796-rotate-string](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0796-rotate-string) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0796-rotate-string) |
 ## Heap (Priority Queue)
 |  |
@@ -288,10 +290,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0459-repeated-substring-pattern) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0459-repeated-substring-pattern) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
