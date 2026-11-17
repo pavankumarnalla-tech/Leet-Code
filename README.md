@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0541-reverse-string-ii) |
 | [0709-to-lower-case](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0796-rotate-string) |
+| [0824-goat-latin](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0824-goat-latin) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 ## String Matching
 |  |
