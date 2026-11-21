@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0189-rotate-array) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0504-base-7) |
 ## Two Pointers
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0415-add-strings) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/pavankumarnalla-tech/Leet-Code/tree/master/0451-sort-characters-by-frequency) |
